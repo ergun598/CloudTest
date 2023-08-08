@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-08T09:02:32.293Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="sjekNuvUmjhuZJ5Ckk2t" version="21.6.6" type="github">
+<mxfile modified="2023-08-08T09:04:19.621Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="-O4xKodMHomnrbNUXcKo" version="21.6.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ejGAQnooB_EAoYQokwm5-528" value="2 Stream Nodes&lt;br&gt;16 GB / 4 CPU / 100GB Stroge per Node" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" vertex="1" parent="ejGAQnooB_EAoYQokwm5-526">
+        <mxCell id="ejGAQnooB_EAoYQokwm5-528" value="2 Stream Nodes&lt;br&gt;16 GB / 4 CPU / 100GB Stroge per Node&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" vertex="1" parent="ejGAQnooB_EAoYQokwm5-526">
           <mxGeometry x="150" y="-10" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ejGAQnooB_EAoYQokwm5-533" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=10;fontColor=#999999;align=center;dashed=0;endSize=4;startSize=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ejGAQnooB_EAoYQokwm5-516" target="ejGAQnooB_EAoYQokwm5-551">
