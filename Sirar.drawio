@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-19T18:16:31.764Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="ZBXta9TFQyiDM2q4hJEL" version="21.6.8" type="github">
+<mxfile modified="2023-08-19T18:18:03.603Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="nuGBS_4swocsBPSAEzHy" version="21.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2127" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -19,15 +19,12 @@
           <mxGeometry x="1378.37" y="560" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="511" value="Database" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="503" vertex="1">
-          <mxGeometry x="-8.37" y="-30" width="128.37" height="120" as="geometry" />
+          <mxGeometry x="-8.37" y="-20" width="128.37" height="120" as="geometry" />
         </mxCell>
         <mxCell id="504" value="" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_sql;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;rounded=1;" parent="503" vertex="1">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ejGAQnooB_EAoYQokwm5-555" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;16 GB / 4 CPU&lt;br&gt;1TB Stroge&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="503" vertex="1">
-          <mxGeometry x="26.97674418604651" y="26" width="93.02325581395348" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9KAmWLg63ur0Nj4LG1KI-536" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=10;fontColor=#999999;align=center;dashed=0;endSize=4;startSize=4;entryX=1.006;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="511" target="ejGAQnooB_EAoYQokwm5-535" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -73,7 +70,7 @@
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ejGAQnooB_EAoYQokwm5-528" value="2 Stream Nodes&lt;br&gt;16 GB / 4 CPU / 100GB Stroge per Node&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" parent="ejGAQnooB_EAoYQokwm5-526" vertex="1">
+        <mxCell id="ejGAQnooB_EAoYQokwm5-528" value="Stream Nodes&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" parent="ejGAQnooB_EAoYQokwm5-526" vertex="1">
           <mxGeometry x="150" y="-10" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ejGAQnooB_EAoYQokwm5-533" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=10;fontColor=#999999;align=center;dashed=0;endSize=4;startSize=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ejGAQnooB_EAoYQokwm5-516" target="ejGAQnooB_EAoYQokwm5-551" edge="1">
@@ -96,7 +93,7 @@
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ejGAQnooB_EAoYQokwm5-545" value="2 Search Nodes&lt;br&gt;16 GB / 4 CPU / 100GB Stroge per Node" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" parent="ejGAQnooB_EAoYQokwm5-542" vertex="1">
+        <mxCell id="ejGAQnooB_EAoYQokwm5-545" value="Search Nodes&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" parent="ejGAQnooB_EAoYQokwm5-542" vertex="1">
           <mxGeometry x="150" y="-10" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ejGAQnooB_EAoYQokwm5-546" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#999999;align=left;html=1;" parent="1" vertex="1">
@@ -110,7 +107,7 @@
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ejGAQnooB_EAoYQokwm5-549" value="3 Background Nodes&amp;nbsp;&lt;br&gt;16 GB / 4 CPU / 100GB Stroge per Node" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" parent="ejGAQnooB_EAoYQokwm5-546" vertex="1">
+        <mxCell id="ejGAQnooB_EAoYQokwm5-549" value="Background Nodes&amp;nbsp;&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" parent="ejGAQnooB_EAoYQokwm5-546" vertex="1">
           <mxGeometry x="150" y="-10" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ejGAQnooB_EAoYQokwm5-550" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#999999;align=left;html=1;" parent="1" vertex="1">
@@ -124,11 +121,8 @@
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ejGAQnooB_EAoYQokwm5-553" value="8 WebUser Nodes&lt;br&gt;16 GB / 4 CPU / 100GB Stroge per Node" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" parent="ejGAQnooB_EAoYQokwm5-550" vertex="1">
+        <mxCell id="ejGAQnooB_EAoYQokwm5-553" value="&amp;nbsp;WebUser Nodes&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;rounded=1;" parent="ejGAQnooB_EAoYQokwm5-550" vertex="1">
           <mxGeometry x="160" y="-10" width="380" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ejGAQnooB_EAoYQokwm5-554" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;vCPUs are represented by one Intel Xeon core running at 3.1 – 3.6 Ghz&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="870" y="687" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yx4bjBAK3pSvZY5qjyU0-512" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="69" height="72" as="geometry" />
