@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T14:03:23.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="7FOQA4uhKQq7PwTT4Iae" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T04:38:50.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="1Qi0a3uMTmHiM2wjZyGT" version="21.6.8" type="github">
   <diagram name="Page-1" id="Page-1">
     <mxGraphModel dx="1276" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,19 +29,9 @@
             <mxGeometry x="136.5" y="463" width="101" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:16.93px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;App Zone&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="8">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:16.93px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;Local Zone&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="8">
           <mxCell style="verticalAlign=top;align=center;overflow=width;vsdxID=8;fillColor=none;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=none;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="136.5" y="296" width="101" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:16.93px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;DMZ Zone&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="9">
-          <mxCell style="verticalAlign=top;align=center;overflow=width;vsdxID=10;fillColor=none;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=none;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="136.5" y="132" width="101" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;Apache/OHS&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="10">
-          <mxCell style="verticalAlign=top;align=center;overflow=width;vsdxID=11;fillColor=#dae8fc;shape=stencil(nZBLDsIwDAVP4y0yzoIDlHIBThARQyxCUqXhe3rSukhVFyy6s98by9KAaXpvOwbCvuR05ae44sHsgUii5yylTmBaMM05Zb7kdI9O985WknBM2OnNdqAJbT4d5cNTRpudxnp3S4/h30tb1Oo9saj7QdEgcYb+ylXwH3QluHhfh9GIupIQVOi8Xxqskdo37Rc=);dashed=1;strokeColor=#6c8ebf;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="282.5" y="108" width="584" height="117" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="Background" id="23">
@@ -546,16 +536,6 @@
             <mxGeometry x="1002" y="796" width="814" height="49" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;React Components (View)&lt;/font&gt;&lt;/div&gt;" tags="Background" id="M_-9Dg6sCtWMjmafzQ-w-219">
-          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=1;fillColor=#ffe6cc;shape=stencil(nZFLDsIwDERP4y0yCRLqupQLcIKIGmIRkipN+Z2etC5S1AWLZmXPPNvSBHTdW9MRKOxTDDd6cpss6AMoxd5S5JQr0A3o+hIiXWMYfCt9ZzKpcFKolZntSCs08XziD81atcFdVby9QLLlHh7j9ZewKNZ7nkTpj4I69gX6M1fBf9CV4OJ8LqZ8JDl2TuIt/WWeWZK/0M0X);strokeColor=#d79b00;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="328" y="135" width="495" height="35" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;Runtime Orchestrator(Pega Starter Kit)&lt;/font&gt;&lt;/div&gt;" tags="Background" id="M_-9Dg6sCtWMjmafzQ-w-220">
-          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=1;fillColor=#ffe6cc;shape=stencil(nZFLDsIwDERP4y0yCRLqupQLcIKIGmIRkipN+Z2etC5S1AWLZmXPPNvSBHTdW9MRKOxTDDd6cpss6AMoxd5S5JQr0A3o+hIiXWMYfCt9ZzKpcFKolZntSCs08XziD81atcFdVby9QLLlHh7j9ZewKNZ7nkTpj4I69gX6M1fBf9CV4OJ8LqZ8JDl2TuIt/WWeWZK/0M0X);strokeColor=#d79b00;points=[[0.5,1,0],[1,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="328" y="170" width="495" height="35" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="" tags="Background" id="M_-9Dg6sCtWMjmafzQ-w-238">
           <mxCell style="vsdxID=6;edgeStyle=none;dashed=1;startArrow=none;endArrow=none;startSize=5;endSize=5;strokeWidth=2;strokeColor=#9dbb61;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=top;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
             <mxGeometry relative="1" as="geometry">
@@ -563,56 +543,6 @@
               <Array as="points" />
               <mxPoint x="136.5" y="254" as="sourcePoint" />
               <mxPoint x="993.5" y="254" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <mxCell id="M_-9Dg6sCtWMjmafzQ-w-247" value="Constellation DX API V2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="M_-9Dg6sCtWMjmafzQ-w-238" vertex="1" connectable="0">
-          <mxGeometry x="0.5863" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="" tags="Background" id="M_-9Dg6sCtWMjmafzQ-w-239">
-          <mxCell style="vsdxID=31;edgeStyle=none;startArrow=blockThin;endArrow=blockThin;startSize=5;endSize=5;strokeWidth=2;strokeColor=#789440;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=top;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="435.5" y="225" as="sourcePoint" />
-              <mxPoint x="435.5" y="281" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="M_-9Dg6sCtWMjmafzQ-w-240">
-          <mxCell style="vsdxID=32;edgeStyle=none;startArrow=blockThin;endArrow=blockThin;startSize=5;endSize=5;strokeWidth=2;strokeColor=#789440;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=top;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="495.5" y="225" as="sourcePoint" />
-              <mxPoint x="495.5" y="281" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="M_-9Dg6sCtWMjmafzQ-w-241">
-          <mxCell style="vsdxID=33;edgeStyle=none;startArrow=blockThin;endArrow=blockThin;startSize=5;endSize=5;strokeWidth=2;strokeColor=#789440;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=top;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="555.5" y="225" as="sourcePoint" />
-              <mxPoint x="555.5" y="280" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="M_-9Dg6sCtWMjmafzQ-w-242">
-          <mxCell style="vsdxID=34;edgeStyle=none;startArrow=blockThin;endArrow=blockThin;startSize=5;endSize=5;strokeWidth=2;strokeColor=#789440;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=top;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="619.5" y="225" as="sourcePoint" />
-              <mxPoint x="619.5" y="281" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="M_-9Dg6sCtWMjmafzQ-w-243">
-          <mxCell style="vsdxID=35;edgeStyle=none;startArrow=blockThin;endArrow=blockThin;startSize=5;endSize=5;strokeWidth=2;strokeColor=#789440;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=top;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <Array as="points" />
-              <mxPoint x="682.5" y="225" as="sourcePoint" />
-              <mxPoint x="682.5" y="281" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
