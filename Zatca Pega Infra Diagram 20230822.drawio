@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T05:36:50.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="DZSVg308dEAsxTB1C4uS" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T05:37:30.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="lTPtbmhDRU3wGvXBeK7g" version="21.6.8" type="github">
   <diagram name="Page-1" id="Page-1">
     <mxGraphModel dx="1276" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -701,6 +701,15 @@
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:100%;opacity:1&quot;&gt;Pega NodeType:Stream&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="JCutN4eRb9OTuJJ_0cN7-266">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=1217;fillColor=#44aac4;gradientColor=#31859b;gradientDirection=north;shape=stencil(vVPLcsMgDPwajtYA6qTmnKb/wTTYZkqNB9PG/fviymmCXSan5KbHSmIlluF+7PRgmORjDP7dnOwxdgxfmJS270ywMVkMDwz3jQ+mDf6zP5I/6Bk5Wx/+a+4wUZ3aQY1zleTfFBGc//qvBNfhLeXCAkdASehwhgsQFJny+nO/WsHTAqj0ZMcq+Kij9T2lF7DToTVVGlY1TrdZajwZM2zCy/Oc7U15tuCwK5ORoFRORoGqMzLb9fBHcUEQz/9MLpyF4+osHER+l8JmHsCk8B8KTNSaCa6ZbDbzd/b7c7mpl2RctNZY50iq1/m1NlOIdI2HHw==);strokeColor=#404040;shadow=1;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,0,0],[0.5,0,0],[0.5,0.5,0],[1,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="1456.5" y="1475" width="100" height="29" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Background" id="JCutN4eRb9OTuJJ_0cN7-268">
+          <mxCell style="vsdxID=1111;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8.00 4.00 1.00 4.00;startArrow=none;endArrow=none;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" edge="1" parent="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint as="offset" />
+              <mxPoint x="1019" y="1360" as="sourcePoint" />
+              <mxPoint x="1884" y="1360" as="targetPoint" />
+            </mxGeometry>
           </mxCell>
         </UserObject>
       </root>
