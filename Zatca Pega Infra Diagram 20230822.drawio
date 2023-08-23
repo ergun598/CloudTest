@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T12:46:16.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="pvaq6ib6nWvE9jRHGAy6" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T12:47:50.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="pwubbLmXeGwkqL2U9nyH" version="21.6.9" type="github">
   <diagram name="Page-1" id="Page-1">
     <mxGraphModel dx="1276" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -558,9 +558,6 @@
         <mxCell id="ylqOTINV28QX6pO2Szp4-266" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#4d1e1a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;Oracle SERVER Core-4 Ram 16 GB 200 GB&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#4d1e1a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;Schemas&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#4d1e1a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;PegaRules/&lt;/font&gt;&lt;span style=&quot;color: rgb(77, 30, 26); font-family: Calibri; font-size: 14.11px; letter-spacing: 0px; background-color: initial;&quot;&gt;PegaData/&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 30, 26); font-family: Calibri; font-size: 14.11px; letter-spacing: 0px; background-color: initial;&quot;&gt;Customer&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#4d1e1a;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;vsdxID=1187;fillColor=none;gradientColor=none;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;strokeColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" parent="ylqOTINV28QX6pO2Szp4-262" vertex="1">
           <mxGeometry x="-89.2301886792453" y="137.07142857142858" width="449.2301886792453" height="52.92857142857143" as="geometry" />
         </mxCell>
-        <mxCell id="GtuvH-d8y6rt5PdT8Y_K-222" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1420" width="790" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="GtuvH-d8y6rt5PdT8Y_K-229" value="&lt;h1&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Active-Active Cluster&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="727.5" y="1581" width="257.5" height="40" as="geometry" />
         </mxCell>
@@ -598,7 +595,7 @@
         </UserObject>
         <UserObject label="" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-238">
           <mxCell style="vsdxID=1187;fillColor=none;gradientColor=none;points=[[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;strokeColor=none;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="1191.5" y="1610" width="360" height="190" as="geometry" />
+            <mxGeometry x="1191.5" y="1600" width="638.5" height="220" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="GtuvH-d8y6rt5PdT8Y_K-239" style="vsdxID=1188;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="GtuvH-d8y6rt5PdT8Y_K-238">
@@ -623,7 +620,7 @@
             <mxGeometry x="1054.5" y="1444" width="160" height="150" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 4 . RAM 16 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-244">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 2. RAM 12 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-244">
           <mxCell style="verticalAlign=top;align=left;overflow=width;vsdxID=1109;fillColor=#d7d0e3;gradientColor=#e7e3ee;gradientDirection=north;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#404040;shadow=1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="1080.91" y="1521" width="121.5" height="60" as="geometry" />
           </mxCell>
@@ -633,7 +630,7 @@
             <mxGeometry x="1092.41" y="1544" width="100" height="29" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 4 . RAM 16 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-246">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 4 . RAM 12 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-246">
           <mxCell style="verticalAlign=top;align=left;overflow=width;vsdxID=1109;fillColor=#d7d0e3;gradientColor=#e7e3ee;gradientDirection=north;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#404040;shadow=1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="1080" y="1452" width="121.5" height="60" as="geometry" />
           </mxCell>
@@ -653,7 +650,7 @@
             <mxGeometry x="1632" y="1456.25" width="160" height="80.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 4 . RAM 16 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-250">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 2. RAM 12 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-250">
           <mxCell style="verticalAlign=top;align=left;overflow=width;vsdxID=1109;fillColor=#d7d0e3;gradientColor=#e7e3ee;gradientDirection=north;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#404040;shadow=1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="1657.5" y="1464.25" width="121.5" height="60" as="geometry" />
           </mxCell>
@@ -673,7 +670,7 @@
             <mxGeometry x="1242" y="1444" width="160" height="150" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 4 . RAM 16 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-254">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 2. RAM 12 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-254">
           <mxCell style="verticalAlign=top;align=left;overflow=width;vsdxID=1109;fillColor=#d7d0e3;gradientColor=#e7e3ee;gradientDirection=north;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#404040;shadow=1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="1268.4099999999999" y="1521" width="121.5" height="60" as="geometry" />
           </mxCell>
@@ -683,7 +680,7 @@
             <mxGeometry x="1279.9099999999999" y="1544" width="100" height="29" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 4 . RAM 16 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-256">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 2. RAM 12 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-256">
           <mxCell style="verticalAlign=top;align=left;overflow=width;vsdxID=1109;fillColor=#d7d0e3;gradientColor=#e7e3ee;gradientDirection=north;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#404040;shadow=1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="1267.5" y="1452" width="121.5" height="60" as="geometry" />
           </mxCell>
@@ -703,7 +700,7 @@
             <mxGeometry x="1431.5" y="1444" width="160" height="150" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 4 . RAM 16 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-260">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 2. RAM 12 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-260">
           <mxCell style="verticalAlign=top;align=left;overflow=width;vsdxID=1109;fillColor=#d7d0e3;gradientColor=#e7e3ee;gradientDirection=north;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#404040;shadow=1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="1457.9099999999999" y="1521" width="121.5" height="60" as="geometry" />
           </mxCell>
@@ -713,7 +710,7 @@
             <mxGeometry x="1469.4099999999999" y="1544" width="100" height="29" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 4 . RAM 16 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-262">
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:8.47px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Tomcat Server– 1 (&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); letter-spacing: 0px; direction: ltr; line-height: 10.164px; opacity: 1;&quot;&gt;Core – 2. RAM 12 GB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="GtuvH-d8y6rt5PdT8Y_K-262">
           <mxCell style="verticalAlign=top;align=left;overflow=width;vsdxID=1109;fillColor=#d7d0e3;gradientColor=#e7e3ee;gradientDirection=north;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#404040;shadow=1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="1457" y="1452" width="121.5" height="60" as="geometry" />
           </mxCell>
@@ -726,8 +723,8 @@
         <mxCell id="GtuvH-d8y6rt5PdT8Y_K-265" value="&lt;h1&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Active-Active Cluster&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1622" y="1581" width="257.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GtuvH-d8y6rt5PdT8Y_K-264" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1034.5" y="1420" width="790" height="200" as="geometry" />
+        <mxCell id="GtuvH-d8y6rt5PdT8Y_K-266" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="1410" width="790" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
